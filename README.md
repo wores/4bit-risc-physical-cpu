@@ -1,5 +1,5 @@
 # 大昔に作った4bitのRISC系物理CPU
-知識的に現在でも色褪せない名著である「CPUの造り方」という本を元に1年くらいかけて作ったもの
+知識的に現在でも色褪せない名著である「CPUの創り方」という本を元に1年くらいかけて作ったもの
 
 <img src="images/omote.JPG" width=80%>
 <img src="images/ura_2.JPG" width=80%>
